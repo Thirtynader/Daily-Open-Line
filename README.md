@@ -29,7 +29,7 @@ A professional and customizable indicator that displays the daily opening price 
 
 ## Download
 
-➡️ [Download the Thirtynader Daily Open Line indicator (EX5 file)](https://github.com/Thirtynader/YourRepoName/raw/main/Thirtynader-DailyOpenLine.ex5)
+➡️ [Download the Thirtynader Daily Open Line indicator (EX5 file)](https://github.com/Thirtynader/Daily-Open-Line/releases)
 
 ## Screenshots
 
